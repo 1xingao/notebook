@@ -1,0 +1,177 @@
+{
+  "workspaces": {
+    "code": {
+      "main": {
+        "id": "15e0b9e6a929790c",
+        "type": "split",
+        "children": [
+          {
+            "id": "0f2f03419aa65cec",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ee3b593013ed0c52",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研数学.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "dc490b457e298121"
+              }
+            ]
+          },
+          {
+            "id": "91a9498ac5b6b202",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "89e47a6a9bb9f424",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "考研数学.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                },
+                "group": "dc490b457e298121"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "11d41cdf8477753f",
+        "type": "split",
+        "children": [
+          {
+            "id": "f8a7d5078b2e1fcf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "17071404dcc40847",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "cf8f673a888902d0",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "e7dc574743f2cd0f",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "692ebae36157cb62",
+        "type": "split",
+        "children": [
+          {
+            "id": "2dcacc124e97e250",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ae9eb51d5e4d3b47",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "考研数学.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "a5cc6d3e5022cefc",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "考研数学.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "0b7a35c8b5b3e39c",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "693bf3e42c80dd9c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "考研数学.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "daily-notes:打开/创建今天的日记": true,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "markdown-importer:打开 Markdown 格式转换器": false
+        }
+      },
+      "active": "ee3b593013ed0c52"
+    }
+  },
+  "active": "code"
+}

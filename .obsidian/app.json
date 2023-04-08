@@ -3,5 +3,8 @@
   "spellcheckLanguages": [
     "zh-CN",
     "en-GB"
-  ]
+  ],
+  "spellcheck": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true
 }

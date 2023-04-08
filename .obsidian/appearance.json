@@ -2,5 +2,7 @@
   "accentColor": "",
   "theme": "obsidian",
   "nativeMenus": false,
-  "translucency": false
+  "translucency": false,
+  "cssTheme": "Comfort color dark",
+  "baseFontSize": 20
 }

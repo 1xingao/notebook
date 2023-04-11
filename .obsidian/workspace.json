@@ -6,7 +6,7 @@
       {
         "id": "5f660a9664018d4c",
         "type": "tabs",
-        "dimension": 48.708487084870846,
+        "dimension": 48.8929889298893,
         "children": [
           {
             "id": "7fea80c566ecd12a",
@@ -26,7 +26,7 @@
       {
         "id": "b1825cf707eb769f",
         "type": "tabs",
-        "dimension": 51.291512915129154,
+        "dimension": 51.107011070110694,
         "children": [
           {
             "id": "68821cc4e50a1b8f",
@@ -181,7 +181,7 @@
       "cmdr:Quiet Outline: Quiet Outline": false
     }
   },
-  "active": "4ab6704752e76fa7",
+  "active": "68821cc4e50a1b8f",
   "lastOpenFiles": [
     "泰勒公式.md",
     "考研数学.md",

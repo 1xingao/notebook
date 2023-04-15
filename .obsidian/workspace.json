@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5f660a9664018d4c",
+        "id": "afba29cb47d832c2",
         "type": "tabs",
-        "dimension": 48.8929889298893,
         "children": [
           {
-            "id": "7fea80c566ecd12a",
+            "id": "89e47a6a9bb9f424",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,17 +18,16 @@
                 "source": false
               }
             },
-            "group": "29c225e34dc32d7c"
+            "group": "dc490b457e298121"
           }
         ]
       },
       {
-        "id": "b1825cf707eb769f",
+        "id": "91a9498ac5b6b202",
         "type": "tabs",
-        "dimension": 51.107011070110694,
         "children": [
           {
-            "id": "68821cc4e50a1b8f",
+            "id": "ee3b593013ed0c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -39,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "29c225e34dc32d7c"
+            "group": "dc490b457e298121"
           }
         ]
       }
@@ -151,37 +149,29 @@
                 "file": "考研数学.md"
               }
             }
-          },
-          {
-            "id": "4ab6704752e76fa7",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "command-palette:打开命令面板": false,
+      "cmdr:Mind Map: Preview the current note as a Mind Map": false,
+      "cmdr:Quiet Outline: Quiet Outline": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": true,
       "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "cmdr:Mind Map: Preview the current note as a Mind Map": false,
-      "cmdr:Quiet Outline: Quiet Outline": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "68821cc4e50a1b8f",
+  "active": "ee3b593013ed0c52",
   "lastOpenFiles": [
     "泰勒公式.md",
     "考研数学.md",

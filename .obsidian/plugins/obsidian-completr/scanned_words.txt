@@ -11,3 +11,5 @@ alt
 zoom
 xy
 Ax
+ps
+MP

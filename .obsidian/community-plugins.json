@@ -3,7 +3,11 @@
   "obsidian-mind-map",
   "cmdr",
   "obsidian-completr",
+<<<<<<< Updated upstream
   "quick-latex",
   "remotely-save",
   "obsidian-git"
+=======
+  "quick-latex"
+>>>>>>> Stashed changes
 ]

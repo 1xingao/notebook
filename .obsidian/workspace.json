@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "692ebae36157cb62",
@@ -159,8 +160,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "cmdr:Mind Map: Preview the current note as a Mind Map": false,
-      "cmdr:Quiet Outline: Quiet Outline": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "daily-notes:打开/创建今天的日记": true,

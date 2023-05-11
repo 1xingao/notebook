@@ -8,7 +8,7 @@
   "outgoing-link": true,
   "tag-pane": true,
   "page-preview": true,
-  "daily-notes": false,
+  "daily-notes": true,
   "templates": true,
   "note-composer": true,
   "command-palette": true,
@@ -25,5 +25,6 @@
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
-  "sync": false
+  "sync": false,
+  "bookmarks": true
 }

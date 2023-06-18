@@ -3,6 +3,7 @@ replace
 of
 if
 img
+ing
 then
 src
 style
@@ -13,3 +14,16 @@ xy
 Ax
 ps
 MP
+DEM
+DOM
+Dabase
+GIS
+GNSS
+GIs
+Geospatial
+GPS
+Geographical
+RS
+WGS
+Information
+System

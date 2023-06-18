@@ -4,40 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "afba29cb47d832c2",
+        "id": "767566f85a0a84c3",
+        "type": "split",
+        "children": [
+          {
+            "id": "b06ff44032b54a76",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b901c697cc17dc45",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "地理信息系统复习.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                },
+                "group": "9d1a58b185315d39"
+              }
+            ]
+          },
+          {
+            "id": "05b9439d2defd23f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1e27fbb571bb85b9",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "73e0bd0fbdc0fd51",
         "type": "tabs",
         "children": [
           {
-            "id": "89e47a6a9bb9f424",
+            "id": "95ba89940e310759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "考研数学.md",
-                "mode": "source",
+                "file": "地理信息系统复习.md",
+                "mode": "preview",
                 "source": false
               }
             },
-            "group": "dc490b457e298121"
-          }
-        ]
-      },
-      {
-        "id": "91a9498ac5b6b202",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ee3b593013ed0c52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "考研数学.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "dc490b457e298121"
+            "group": "9d1a58b185315d39"
           }
         ]
       }
@@ -113,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "考研数学.md",
+                "file": "地理信息系统复习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "考研数学.md",
+                "file": "地理信息系统复习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "考研数学.md"
+                "file": "地理信息系统复习.md"
               }
             }
           }
@@ -178,10 +199,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "ee3b593013ed0c52",
+  "active": "1e27fbb571bb85b9",
   "lastOpenFiles": [
-    "泰勒公式.md",
+    "GIS复习.md",
+    "摄影测量学实验报告.md",
     "考研数学.md",
+    "摄影测量学实验报告",
+    "泰勒公式.md",
     "遥感.md",
     "os.md",
     "计算机网络.md",

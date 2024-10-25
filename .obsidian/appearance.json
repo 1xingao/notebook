@@ -4,6 +4,8 @@
   "nativeMenus": false,
   "translucency": false,
   "cssTheme": "Everforest",
-  "baseFontSize": 19,
-  "textFontFamily": "Consolas"
+  "baseFontSize": 17,
+  "textFontFamily": "Consolas",
+  "interfaceFontFamily": "",
+  "baseFontSizeAction": true
 }

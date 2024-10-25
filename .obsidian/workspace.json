@@ -4,63 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "767566f85a0a84c3",
-        "type": "split",
-        "children": [
-          {
-            "id": "b06ff44032b54a76",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b901c697cc17dc45",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "地理信息系统复习.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                },
-                "group": "9d1a58b185315d39"
-              }
-            ]
-          },
-          {
-            "id": "05b9439d2defd23f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "1e27fbb571bb85b9",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmap",
-                  "state": {}
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
-        "id": "73e0bd0fbdc0fd51",
+        "id": "d9d742183f21f5c7",
         "type": "tabs",
         "children": [
           {
-            "id": "95ba89940e310759",
+            "id": "a3a8e2c2f59eaeaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "地理信息系统复习.md",
-                "mode": "preview",
+                "file": "读研/文章总结_重金属.md",
+                "mode": "source",
                 "source": false
-              }
-            },
-            "group": "9d1a58b185315d39"
+              },
+              "icon": "lucide-file",
+              "title": "文章总结_重金属"
+            }
+          },
+          {
+            "id": "e78548321f4d2f99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eng_Pre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eng_Pre"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -80,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -95,7 +73,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -103,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           },
           {
@@ -111,14 +93,17 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "692ebae36157cb62",
@@ -134,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地理信息系统复习.md",
+                "file": "Eng_Pre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +127,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Eng_Pre 的反向链接列表"
             }
           },
           {
@@ -151,10 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "地理信息系统复习.md",
+                "file": "Eng_Pre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Eng_Pre 的出链列表"
             }
           },
           {
@@ -165,21 +154,49 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           },
           {
-            "id": "693bf3e42c80dd9c",
+            "id": "58bee53647c798a1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "7aad2ca76a6828d5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "地理信息系统复习.md"
-              }
+                "file": "Eng_Pre.md"
+              },
+              "icon": "lucide-list",
+              "title": "Eng_Pre 的大纲"
+            }
+          },
+          {
+            "id": "35f32f652b0e54da",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -199,26 +216,45 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "1e27fbb571bb85b9",
+  "active": "e78548321f4d2f99",
   "lastOpenFiles": [
-    "GIS复习.md",
+    "读研/文章总结_重金属.md",
+    "Eng_Pre.md",
+    "读研/作业.md",
+    "读研/联合重力卫星和水井资料监测华北平原地下水储量变化_曹杰.md",
+    "读研/文章总结.md",
+    "last/计算机网络.md",
+    "last/考研数学.md",
+    "读研",
+    "文献",
+    "答辩稿.md",
+    "last",
+    "复试/摄影测量学.md",
+    "复试/复试.md",
+    "复试/遥感.md",
+    "复试/测量学教程(1).pdf",
+    "复试/遥感原理与应用.pdf",
+    "复试/卫星定位原理与应用.pdf",
+    "复试/地理信息系统导论(1).pdf",
+    "last/DEM.md",
+    "复试/大地测量学.md",
+    "last/python组件.md",
     "摄影测量学实验报告.md",
-    "考研数学.md",
-    "摄影测量学实验报告",
+    "复试/复试.pdf",
+    "last/GIS复习.md",
+    "last/地理信息系统复习.md",
+    "复试",
+    "last/道路勘探设计.md",
+    "last/c++知识图谱.md",
+    "复试/822名词解释.md",
+    "last/操作系统.md",
+    "last/os.md",
+    "last/专业英语.md",
+    "last/位运算总结.md",
     "泰勒公式.md",
-    "遥感.md",
-    "os.md",
-    "计算机网络.md",
-    "1.md",
+    "高数整理补充.md",
+    "摄影测量学实验报告",
     "未命名.canvas",
-    "大地测量学.md",
-    "python组件.md",
-    "dp背包问题.md",
-    "c++知识图谱.md",
-    "位运算总结.md",
-    "考研英语.md",
-    "考研学校.md",
-    "2023-04-07.md",
     "未命名 1.canvas"
   ]
 }
